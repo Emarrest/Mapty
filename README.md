@@ -1,0 +1,2 @@
+# Mapty
+Activities tracker
